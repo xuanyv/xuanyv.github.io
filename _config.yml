@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Liu Xuanyu"
+title                    : "Liu Xuanyu's Website"
 title_separator          : "-"
 name                     : "Liu Xuanyu"
 description              : "personal description"

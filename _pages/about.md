@@ -12,7 +12,7 @@ Before that, I obtained my bachelor's degree in the [School of Information and C
 My research interests include AI-empowered wireless system design and adaptive convolution. Specifically, I have recently focused on the wireless physical layer (PHY) design enabled by foundation models.
 
 # Publications
-======
+
 ## Working Paper
 
 1. **Xuanyu Liu**, Shijian Gao, Boxun Liu, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback" [[[arXiv]](https://arxiv.org/abs/2508.04068)]

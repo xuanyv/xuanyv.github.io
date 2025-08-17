@@ -38,9 +38,9 @@ None
 # Academic Service
 ## Technical Reviewers
 
-*IEEE Journal on Selected Areas in Communications
-*IEEE Transactions on Intelligent Transportation Systems
-*IEEE Wireless Communications Letters
-*Journal of Communications and Information Networks
+ * IEEE Journal on Selected Areas in Communications
+ * IEEE Transactions on Intelligent Transportation Systems
+ * IEEE Wireless Communications Letters
+ * Journal of Communications and Information Networks
 
 

@@ -31,3 +31,16 @@ My research interests include AI-empowered wireless system design and adaptive c
  
 ## Conferences
 None
+
+
+# Honors and Awards
+
+# Academic Service
+## Technical Reviewers
+
+IEEE Journal on Selected Areas in Communications
+IEEE Transactions on Intelligent Transportation Systems
+IEEE Wireless Communications Letters
+Journal of Communications and Information Networks
+
+

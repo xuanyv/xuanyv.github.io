@@ -32,14 +32,13 @@ Work experience
 Skills
 ======
 * Communication Skills  
-  * CET-6 certified, score: 521  
-  * Senior Docent at UESTC Electronic Science Museum, delivered 100+ science popularization sessions to visitors  
-  * Peer Tutor at UESTC, providing academic Q&A and mentoring to fellow students  
+  * **CET-6** certified, score: 521  
+  * **Senior Docent** at UESTC Electronic Science Museum, delivered 100+ science popularization sessions to visitors  
+  * **Peer Tutor** at UESTC, providing academic Q&A and mentoring to fellow students  
 
 * Programming Skills  
-  * C++ (Course score: 100/100)  
-  * MATLAB (Lab course score: 98/100)  
-  * Proficient in Python, with expertise in building and training neural networks, as well as data processing and analysis  
+  * Proficient in **Python**, with expertise in building and training neural networks, as well as data processing and analysis
+  * Also familiar with **C++** (Course score: 100/100), **MATLAB** (Lab course score: 98/100), as well as other languages such as the hardware description language **Verilog**.
 
 * Organizational Skills  
   * Participated in volunteer teaching in Western Sichuan during Summer 2022, recognized as **Outstanding Social Practice Individual of UESTC**  

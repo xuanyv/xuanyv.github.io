@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2021-2025
+* Ph.D in Signal and Information Processing, Peking University, 2025-2030 (expected)
+* B.S. in Electronics and Information Engineering, University of Electronic Science and Technology of China, 2021-2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Member of University Electronic Design Competition Team
+  * University of Electronic Science and Technology of China
+  * Role & Responsibilities:
+    * Developed embedded software for STM32 microcontrollers (F1, F4, and F7 series), focusing on lower-computer control logic and system optimization.
+    * Designed and implemented FPGA-based modules for performance-critical components.
+    * Integrated hardware and software subsystems, conducted debugging, and optimized system reliability.
+  * Awards:
+    * **Second Prize**, National Undergraduate Embedded Chip and System Design Competition – Application Track (Southwest China Division)
+    * **Second Prize**, National Undergraduate Electronic Design Contest (Southwest China Division)
+    * **Third Prize**, National Undergraduate Embedded Chip and System Design Competition – FPGA Innovation Design Track
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Communication Skills  
+  * CET-6 certified, score: 521  
+  * Senior Docent at UESTC Electronic Science Museum, delivered 100+ science popularization sessions to visitors  
+  * Peer Tutor at UESTC, providing academic Q&A and mentoring to fellow students  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Skills  
+  * C++ (Course score: 100/100)  
+  * MATLAB (Lab course score: 98/100)  
+  * Proficient in Python, with expertise in building and training neural networks, as well as data processing and analysis  
+
+* Organizational Skills  
+  * Participated in volunteer teaching in Western Sichuan during Summer 2022, recognized as **Outstanding Social Practice Individual of UESTC**  
+  * Served as Class Committee Member for three consecutive academic years, organizing class affairs and activities
+
+ 

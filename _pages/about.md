@@ -15,13 +15,13 @@ My research interests include AI-empowered wireless system design and adaptive c
 ## Working Paper
 
 1. **Xuanyu Liu**, Shijian Gao, Boxun Liu, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback" [[arXiv](https://arxiv.org/abs/2508.04068)]
-2. Boxun Liu, **Xuanyu Liu**, Shijian Gao, Xiang Cheng, and Liuqing Yang, "Foundation Model for Intelligent Wireless Communications," **Sci. Adv.**, submitted for publication, 2025. [[arXiv](https://arxiv.org/abs/2511.22222)]
+2. Boxun Liu, **Xuanyu Liu**, Shijian Gao, Xiang Cheng, and Liuqing Yang, "Foundation Model for Intelligent Wireless Communications," **Science Advances**, submitted for publication, 2025. [[arXiv](https://arxiv.org/abs/2511.22222)]
 3. Xiang Cheng, Boxun Liu, **Xuanyu Liu**, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger," **IEEE Wireless Communications Magazine**, submitted for publication, 2026.
 
 ## Journals
 
 1. Xiang Cheng, Boxun Liu, **Xuanyu Liu**, Ensong Liu, and Ziwei Huang, "Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration", **IEEE Transactions on Network Science and Engineering**, Jul. 2025. [[arXiv](https://arxiv.org/abs/2506.07647)] [[Code](https://github.com/liuboxun/FM4SoM)]
-   <span style="color:green;">（First to propose the paradigm of foundation-model-empowered Machine Synesthesia (SoM).）</span>
+   <span style="color:green;"> First to propose the paradigm of foundation-model-empowered Machine Synesthesia (SoM).</span>
 2. **Xuanyu Liu**, Shijian Gao, Boxun Liu, Xiang Cheng, and Liuqing Yang, "LLM4WM: Adapting LLM for Wireless Multi-Tasking", **IEEE Transactions on Machine Learning in Communications and Networking**, vol. 3, pp. 835-847, July. 2025. [[Paper](https://ieeexplore.ieee.org/document/11071329)][[arXiv](https://arxiv.org/abs/2501.12983)][[Code](https://github.com/xuanyv/LLM4WM)]
    <span style="color:orange;">*Selected as the Most Popular Document Top 5 of TMLCN: August 2025-now*</span>
 3. Boxun Liu, Shijian Gao, **Xuanyu Liu**, Xiang Cheng, and Liuqing Yang, "WiFo: Wireless Foundation Model for Channel Prediction," **SCIENCE CHINA Information Sciences**, vol. 68, no. 6, p. 162302, May. 2025. [[Paper](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4349-0)][[arXiv](https://arxiv.org/pdf/2412.08908)] [[Code](https://github.com/liuboxun/WiFo)] <span style="color:green;">The first wireless foundation model to address time-frequency channel prediction tasks in a one-for-all manner.</span>

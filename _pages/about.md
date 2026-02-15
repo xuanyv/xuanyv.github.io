@@ -51,6 +51,7 @@ None
  * IEEE Journal on Selected Areas in Communications
  * IEEE Transactions on Intelligent Transportation Systems
  * IEEE Wireless Communications Letters
+ * Science China Information Sciences
  * Journal of Communications and Information Networks
 
 

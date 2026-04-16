@@ -18,7 +18,7 @@ My research interests include AI-empowered wireless system design and adaptive c
 2. Xiang Cheng, Boxun Liu, **Xuanyu Liu**, and Xuesong Cai, "Large Wireless Foundation Models: Stronger over Bigger," **IEEE Wireless Communications Magazine**, submitted for publication, 2026.
 
 ## Journals
-1. **Xuanyu Liu**, Shijian Gao, Boxun Liu, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback", **IEEE Transactions on Wireless Communications**, Apr. 2026. [[arXiv](https://arxiv.org/abs/2508.04068)]
+1. **Xuanyu Liu**, Shijian Gao, Boxun Liu, Xiang Cheng, and Liuqing Yang, "WiFo-CF: Wireless Foundation Model for CSI Feedback", **IEEE Transactions on Wireless Communications**, accepted for publication, 2026. [[arXiv](https://arxiv.org/abs/2508.04068)]
 2. Xiang Cheng, Boxun Liu, **Xuanyu Liu**, Ensong Liu, and Ziwei Huang, "Foundation Model Empowered Synesthesia of Machines (SoM): AI-native Intelligent Multi-Modal Sensing-Communication Integration", **IEEE Transactions on Network Science and Engineering**, Jul. 2025. [[arXiv](https://arxiv.org/abs/2506.07647)] [[Code](https://github.com/liuboxun/FM4SoM)]
    <span style="color:green;"> First to propose the paradigm of foundation-model-empowered Machine Synesthesia (SoM).</span>
 3. **Xuanyu Liu**, Shijian Gao, Boxun Liu, Xiang Cheng, and Liuqing Yang, "LLM4WM: Adapting LLM for Wireless Multi-Tasking", **IEEE Transactions on Machine Learning in Communications and Networking**, vol. 3, pp. 835-847, July. 2025. [[Paper](https://ieeexplore.ieee.org/document/11071329)][[arXiv](https://arxiv.org/abs/2501.12983)][[Code](https://github.com/xuanyv/LLM4WM)]

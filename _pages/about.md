@@ -35,6 +35,7 @@ None
 
 # Honors and Awards
 
+* 2026.06 Peking University Presidential Scholarship for Ph.D. candidates, PKU
 * 2025.06 Outstanding Graduation Project (Thesis), UESTC
 * 2025.06 Certificate of Honorary Research, UESTC
 * 2025.06 Outstanding Graduate of Sichuan Province
